@@ -1,0 +1,9 @@
+{
+  "name": "Sahaya",
+  "description": "The Connected Pet Ecosystem - A digital town square for pet parents featuring community messaging, AI pet care, and smart discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
